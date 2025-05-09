@@ -1,8 +1,8 @@
 ## 📊 My Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdobrodey&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&card_width=300" alt="Maksim GitHub stats" width="60%" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical&card_width=300" alt="Top Languages" width="39%" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdobrodey&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true" alt="Maksim GitHub stats" width="60%" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical" alt="Top Languages" width="39%" height="170px" />
 </div>
 
 ## 🔥 Contribution Streak
