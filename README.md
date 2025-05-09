@@ -1,7 +1,5 @@
 # 👋 Hi, I'm yoyo331!
 
-> 🚀 Frontend Developer | JavaScript Enthusiast | React 
-
 ## 📊 My Coding Stats
 
 <div align="center">
