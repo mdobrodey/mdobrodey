@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdobrodey&show_icons=true&theme=radical" alt="Maksim GitHub stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🔥 Contribution Streak
@@ -44,15 +45,6 @@
 <!-- GitHub Activity Graph -->
 <div align="center">
   
-  [![yoyo331's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdobrodey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
-
-## 📊 Language Distribution
-
-<!-- Most Used Languages -->
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![yoyo331's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdobrodey&theme=react-dark)]
   
 </div>
