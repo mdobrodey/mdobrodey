@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdobrodey&show_icons=true&theme=radical&hide_border=true" alt="Maksim GitHub stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mdobrodey&show_icons=true&theme=radical" alt="Maksim GitHub stats" height="165" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdobrodey&layout=compact&theme=radical" alt="Top Languages" height="165" />
   </a>
 </div>
 
