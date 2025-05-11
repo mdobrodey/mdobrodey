@@ -44,7 +44,5 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-
-[![yoyo331's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&theme=xcode&hide_border=true)](https://github.com/yoyo331)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true" alt="yoyo331's github activity graph" style="max-width: 100%;">
 </div>
