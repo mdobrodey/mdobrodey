@@ -44,7 +44,9 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  
-  [![yoyo331's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&theme=radical&hide_border=true)](https://github.com/yoyo331)
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&bg_color=0D1117&color=5BCDEC&line=FF2E9A&point_color=FFFFFF&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&bg_color=0D1117&color=5BCDEC&line=FF2E9A&point_color=FFFFFF&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&bg_color=0D1117&color=5BCDEC&line=FF2E9A&point_color=FFFFFF&area=true&hide_border=true" alt="yoyo331's Contribution Graph">
+  </picture>
 </div>
