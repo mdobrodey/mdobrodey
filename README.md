@@ -36,12 +36,3 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
-## 📈 My GitHub Activity
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoyo331&bg_color=141321&color=99e5e0&line=fe428e&point=f8d847&area=true&hide_border=true" alt="yoyo331's github activity graph" style="max-width: 100%;">
-</div>
