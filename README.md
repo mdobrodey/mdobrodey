@@ -1,3 +1,7 @@
+<div align="left">
+  [![Codewars](https://www.codewars.com/users/maksim12128/badges/large)](https://www.codewars.com/users/maksim12128)
+</div>
+
 ## 📊 My Coding Stats
 
 <div align="center">
