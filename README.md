@@ -38,3 +38,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
