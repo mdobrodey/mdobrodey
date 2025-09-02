@@ -1,4 +1,5 @@
 [![Codewars](https://www.codewars.com/users/maksim12128/badges/large)](https://www.codewars.com/users/maksim12128)
+[![Codewars](https://www.codewars.com/users/mdobrodey/badges/large)](https://www.codewars.com/users/mdobrodey)
 
 ## 📊 My Coding Stats
 
